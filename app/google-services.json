@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842008923006",
+    "firebase_url": "https://sabtugas.firebaseio.com",
+    "project_id": "sabtugas",
+    "storage_bucket": "sabtugas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842008923006:android:25925150c138dd30c5412f",
+        "android_client_info": {
+          "package_name": "rizky.f.sabtugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842008923006-9cdbfain9mfuonivebpjtg7vpbr49mhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwrbXv4jketMLi-qiWC4OpokIsYXExL50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842008923006-9cdbfain9mfuonivebpjtg7vpbr49mhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
